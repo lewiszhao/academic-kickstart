@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Engineer"
-  company = "University X"
+  company = "Tencent"
   company_url = ""
   location = "Chengdu"
   date_start = "2017-04-06"
