@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Image and Vision Computing"
-publication_short: "IVC"
+publication_short: "IMAVIS"
 
 abstract: "The unsupervised person re-identification (re-ID) has become increasingly significant in the community because it is more scalable than the supervised method when dealing with the large-scale person re-ID. However, it is difficult to learn discriminative enough features from across-camera images without labelling information. To address this problem, we propose a joint patch and instance discrimination learning (JPIL) framework for the unsupervised person re-ID. The JPIL framework exploits a patch feature extraction model to generate patch-wise features for each input image. Then the patch discrimination learning (PDL) loss is designed to guide the model to mine the patch-wise discriminative information from unlabelled person image patches. On the other hand, we introduce the instance discrimination learning (IDL) loss to provide instance-wise supervision. The IDL loss aims to pull features of the same instance under different transformations closer and push features belonging to different instances away. Finally, we combine the PDL and IDL loss to apply the joint training. Extensive experiments on Market-1501 and DukeMTMC-reID datasets demonstrate the effectiveness of the proposed method for unsupervised person re-ID."
 
